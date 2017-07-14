@@ -11,7 +11,7 @@ defualt run test
 - configs:
   * word_embedding_test.ini(test_data config)
   * word_embedding.ini(train_data config)
-## logs
-- test: default test log in word_embedding_test.ini
-- train: default train log in word_embedding.ini
+- logs
+  * test: default test log in word_embedding_test.ini
+  * train: default train log in word_embedding.ini
 
