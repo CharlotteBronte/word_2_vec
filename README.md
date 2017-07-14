@@ -6,7 +6,7 @@ defualt run test
 ## configs
 - data: test and train data with same name directory
   * test: test data with 2000 lines seg list data
-  * train: real train data(seg list with all qa_data, mail 2 me if you need)
+  * train: real train data(seg list with 96026158 lines qa_data, mail 2 me if you need)
 * script: word2vec main script
 - configs:
   * word_embedding_test.ini(test_data config)
